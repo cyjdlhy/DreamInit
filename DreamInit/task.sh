@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main.py --prompt "A knight is setting up a campfire" --workspace workspace/test --port 7348 --fp16 --perpneg --lr 1e-4

@@ -1,0 +1,4 @@
+# ninja log v5
+1	12408	1711623024142545836	/mnt/projects/MM2024/Complex-Text/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	4582158fbe97a20d
+0	24466	1711623036163284681	/mnt/projects/MM2024/Complex-Text/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	89a46687061582c1
+1	44083	1711623055811651221	/mnt/projects/MM2024/Complex-Text/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	a77f148ed401f202
